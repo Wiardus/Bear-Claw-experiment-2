@@ -1,0 +1,16 @@
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.exe
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.deps.json
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.runtimeconfig.json
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.runtimeconfig.dev.json
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.dll
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\ref\Bear Claw experiment 2.dll
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\bin\Debug\net5.0\Bear Claw experiment 2.pdb
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.csproj.AssemblyReference.cache
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.AssemblyInfoInputs.cache
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.AssemblyInfo.cs
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.csproj.CoreCompileInputs.cache
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.dll
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\ref\Bear Claw experiment 2.dll
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.pdb
+C:\Users\ynteb\Desktop\CMD\c# projecten\Bear Claw experiment 2\Bear Claw experiment 2\obj\Debug\net5.0\Bear Claw experiment 2.genruntimeconfig.cache
